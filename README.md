@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Vaidya</h1>
+
 - 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
